@@ -16,7 +16,7 @@ Bagas's Github</a></h1>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
 <a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/tailwind.svg" alt="tailwind"></a>
-	<a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="\https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="reactjs"></a>
+	<a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="reactjs"></a>
 	<a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nextjs.svg" alt="nextjs"></a>
 <br />
 <br />
