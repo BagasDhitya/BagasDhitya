@@ -2,9 +2,9 @@
 <h1 align="center">Welcome to Bagas's Github</h1>
 <h3 align="center">Academic Instructor & Software Engineer</h3>
 
-- 🌱 Currently working on Alterra Academy as Academic Instructor
-- 📝 Typescript & Javascript enthusiast 
+- 🌱 Currently working on Alterra Academy as Academic Instructor 
 - 🌱 Currently learning Frontend & Backend tech-stack
+- 📝 Typescript & Javascript enthusiast
 - 💬 Ask me about **React Native, React Js, Node Js, Express Js** 
 - 📫 How to reach me **bagasdhityataufiqqi98@gmail.com**
 
