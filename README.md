@@ -3,8 +3,8 @@
 <h3 align="center">Academic Instructor & Software Engineer</h3>
 
 - 📝 Typescript & Javascript enthusiast 
-- 🌱 Currently learning FullStack tech-stack
-- 💬 Ask me about **React Js, Node Js, Express Js** 
+- 🌱 Currently learning Frontend & Backend tech-stack
+- 💬 Ask me about **React Native, React Js, Node Js, Express Js** 
 - 📫 How to reach me **bagasdhityataufiqqi98@gmail.com**
 
 <br/>
