@@ -2,14 +2,13 @@
 Bagas's Github</a></h1>
 <h3 align="center">Academic Instructor & Software Engineer</h3>
 
-- 🌱 Currently working on a FullStack Project (React Js & Node Js)
-- 🤝 I’m open to work immediately or some freelancing.
-- 🌱 I’m currently learning Redux, Tailwind, etc.
-- 💬 Ask me about **React Js & Node JS** 
+- 📝 Typescript & Javascript enthusiast 
+- 🌱 Currently learning FullStack tech-stack
+- 💬 Ask me about **React Js, Node Js, Express Js** 
 - 📫 How to reach me **bagasdhityataufiqqi98@gmail.com**
 
 <div align="center">
-## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
+##Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
 <br />
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
