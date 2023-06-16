@@ -7,6 +7,7 @@
 - 📝 Typescript & Javascript enthusiast
 - 💬 Ask me about **React Native, React Js, Node Js, Express Js** 
 - 📫 How to reach me **bagasdhityataufiqqi98@gmail.com**
+- Portofolio site : https://bagas-react-portfolio.netlify.app/
 
 <br/>
 <div align="center">
