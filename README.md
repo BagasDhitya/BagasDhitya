@@ -1,44 +1,39 @@
-<h1 align="center">Hi, everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h1 align="center">Welcome to Bagas's Github</h1>
-<h3 align="center">Academic Instructor & Software Engineer</h3>
+## Name
+**Bagas Dhitya Taufiqqi**
 
-- 🌱 Currently working on Alterra Academy as Academic Instructor 
-- 🌱 Currently learning Frontend & Backend tech-stack
-- 📝 Typescript & Javascript enthusiast
-- 💬 Ask me about **React Native, React Js, Node Js, Express Js** 
-- 📫 How to reach me **bagasdhityataufiqqi98@gmail.com**
-- Portofolio site : https://bagas-react-portfolio.netlify.app/
+## Occupation
+**Web Development Lecturer & FullStack Developer**
 
-<br/>
-<div align="center">
-	<h1> Tech Stack </h1>
-<br />
+### Web Development Lecturer
+As a Web Development Lecturer, I am dedicated to educating and mentoring the next generation of web developers. I teach various web development courses, focusing on both frontend and backend technologies. My aim is to provide students with a strong foundation in web development principles, best practices, and the latest industry trends. Through hands-on projects and real-world examples, I strive to prepare students for successful careers in the tech industry.
 
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
-<a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/tailwind.svg" alt="tailwind"></a>
-	<a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="reactjs"></a>
-	<a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nextjs.svg" alt="nextjs"></a>
-<br />
-<br />
-<a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="expressjs"></a>
-<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
-<a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/firebase.svg" alt="firebase"></a>
-	<a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/graphql.svg" alt="graphql"></a>
-</div>
-<br />
-<br />
-<div align="center">
-  
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me 🤝
-<p align="center">
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/bagasdhityataufiqqi/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/BagasDhitya">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/bagasdtf/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-      </div>
-</p>
+### FullStack Developer
+As a FullStack Developer, I specialize in creating dynamic and responsive web applications. With expertise in both frontend and backend development, I can handle the entire development process from concept to deployment. I have extensive experience working with various technologies to build scalable and efficient applications. My goal is to deliver high-quality software solutions that meet client requirements and enhance user experience.
+
+## Tech Stack
+
+### Backend Technologies
+- **Node.js**
+  <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="50"/>
+- **Express.js**
+  <img src="https://raw.githubusercontent.com/expressjs/expressjs.com/gh-pages/images/favicon.png" alt="Express.js" width="50"/>
+- **Nest.js**
+  <img src="https://nestjs.com/img/logo_text.svg" alt="Nest.js" width="50"/>
+
+### Database Technologies
+- **MySQL**
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="50"/>
+- **Redis**
+  <img src="https://raw.githubusercontent.com/redis/redis-hashes/gh-pages/logo/redis-logo.png" alt="Redis" width="50"/>
+
+### Frontend Technologies
+- **React.js**
+  <img src="https://reactjs.org/logo-og.png" alt="React.js" width="50"/>
+- **Next.js**
+  <img src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="Next.js" width="50"/>
+
+### Mobile Technologies
+- **React Native CLI/Expo**
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50"/>
+  <img src="https://expo.io/static/favicon.ico" alt="Expo" width="50"/>
+
