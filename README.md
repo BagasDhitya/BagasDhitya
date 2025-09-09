@@ -1,49 +1,51 @@
-## Hi, there. Welcome to my GitHub profile!
-
-👨‍💻 Bagas Dhitya Taufiqqi<br>
-🖥️ Web Development Lecturer ~ Software Engineer<br>
-📩 [bagasdhityataufiqqi98@gmail.com](mailto:bagasdhityataufiqqi98@gmail.com)<br>
-💼 [linkedin.com/in/bagasdhityataufiqqi](https://www.linkedin.com/in/bagasdhityataufiqqi/)<br>
+## Hi there! Welcome to my GitHub profile! 👋
+👨‍💻 Bagas Dhitya Taufiqqi
+🖥️ Web Development Lecturer | Software Engineer | Software Architect
+📩 bagasdhityataufiqqi98@gmail.com
 
 ## 🙋‍♂️ About Me
+I am a passionate Web Development Lecturer dedicated to mentoring the next generation of developers through comprehensive education in both frontend and backend technologies. My teaching philosophy centers on building strong foundational knowledge while incorporating industry best practices and emerging trends.
 
-As a Web Development Lecturer, I am dedicated to educating and mentoring the next generation of web developers. I teach various web development courses, focusing on both frontend and backend technologies. My aim is to provide students with a strong foundation in web development principles, best practices, and the latest industry trends. Through hands-on projects and real-world examples, I strive to prepare students for successful careers in the tech industry. <br><br> On the Software Engineer, I specialize in creating dynamic and responsive web applications. With expertise in both frontend and backend development, I can handle the entire development process from concept to deployment. I have extensive experience working with various technologies to build scalable and efficient applications. My goal is to deliver high-quality software solutions that meet client requirements and enhance user experience.
+As a Software Engineer and Software Architect, I specialize in designing and developing scalable, high-performance web applications. I excel at transforming business requirements into technical solutions, overseeing the entire development lifecycle from concept to deployment. My expertise spans full-stack development, system architecture design, and implementing robust, maintainable codebases.
+
+I believe in creating solutions that not only meet immediate needs but also anticipate future growth and challenges.
 
 ## 🛠️ Tech Stack
+🏗️ Architecture & Development
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white
+https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 
-<div style="font-family: Arial, sans-serif; margin: 20px;">
+## 🎨 Frontend Development
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white
 
-<div style="margin-bottom: 20px;">
-    <h3 style="margin-bottom: 10px;">Backend Technologies</h3>
-    <div style="display: flex; gap: 20px; flex-wrap: wrap;">
-        <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" style="width: 50px; height: 50px; margin-right: 10px;">
-        <img src="https://raw.githubusercontent.com/expressjs/expressjs.com/gh-pages/images/favicon.png" alt="Express.js" style="width: 50px; height: 50px; margin-right: 10px;">
-        <img src="https://nestjs.com/img/logo_text.svg" alt="Nest.js" style="width: 50px; height: 50px; margin-right: 10px;">
-    </div>
-</div>
+## 🗄️ Databases
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
+https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
 
-<div style="margin-bottom: 20px;">
-    <h3 style="margin-bottom: 10px;">Database Technologies</h3>
-    <div style="display: flex; gap: 20px; flex-wrap: wrap;">
-        <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" style="width: 50px; height: 50px; margin-right: 10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo-redis.svg/2560px-Logo-redis.svg.png" alt="Redis" style="width: 50px; height: 50px; margin-right: 10px;">
-    </div>
-</div>
+## 📱 Mobile Development
+https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white
 
-<div style="margin-bottom: 20px;">
-    <h3 style="margin-bottom: 10px;">Frontend Technologies</h3>
-    <div style="display: flex; gap: 20px; flex-wrap: wrap;">
-        <img src="https://reactjs.org/logo-og.png" alt="React.js" style="width: 50px; height: 50px; margin-right: 10px;">
-        <img src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="Next.js" style="width: 50px; height: 50px; margin-right: 10px;">
-    </div>
-</div>
+## 🛠️ Tools & Methodologies
+https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=diagram&logoColor=white
+https://img.shields.io/badge/API_Design-FFE66D?style=for-the-badge&logo=json&logoColor=black
+https://img.shields.io/badge/Microservices-1890FF?style=for-the-badge&logo=microservices&logoColor=white
+https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 
-<div style="margin-bottom: 20px;">
-    <h3 style="margin-bottom: 10px;">Mobile Technologies</h3>
-    <div style="display: flex; gap: 20px; flex-wrap: wrap;">
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" style="width: 50px; height: 50px; margin-right: 10px;">
-        <img src="https://expo.io/static/favicon.ico" alt="Expo" style="width: 50px; height: 50px; margin-right: 10px;">
-    </div>
-</div>
+## 📫 Let's Connect!
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-</div>
+📧 Email: bagasdhityataufiqqi98@gmail.com
+💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/bagasdhityataufiqqi)
+🌐 Portfolio: Coming Soon
